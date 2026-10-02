@@ -1,0 +1,18 @@
+VISIONTEXT - RECOGNIZED TEXT
+========================================
+
+VISIONTEXT DEMO DOCUMENT
+Document ID: VT-0042
+
+Date: 02-10-2026
+
+Name: Rehab
+
+Project: Al Image Recognition
+
+Technology: OpenCV and Tesseract OCR
+
+Status: Successfully Processed
+VISIONTEXT OCR TEST
+
+Image to machine-readable text.
