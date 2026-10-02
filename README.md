@@ -1,4 +1,4 @@
-# VisionText — AI Image-to-Text Recognition1
+# VisionText — AI Image-to-Text Recognition2
 
 VisionText is a basic AI-powered Optical Character Recognition (OCR) pipeline that converts text from images into machine-readable text.
 
